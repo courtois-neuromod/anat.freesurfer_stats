@@ -1,2 +1,5 @@
 [datalad "dataset"]
 	id = fdcd295c-5eac-408c-94f3-98e74afb86f6
+[datalad "containers.bids-freesurfer"]
+	image = code/repronim_containers/images/bids/bids-freesurfer--7.4.1-unstable.sing
+	cmdexec = {img_dspath}/code/repronim_containers/scripts/singularity_cmd exec {img} {cmd}

@@ -3,3 +3,8 @@
 	url = git@github.com:courtois-neuromod/anat.freesurfer_longitudinal.git
 	datalad-id = a05d7185-17f8-49d8-91ae-f3859a483815
 	datalad-url = git@github.com:courtois-neuromod/anat.freesurfer_longitudinal.git
+[submodule "code/repronim_containers"]
+	path = code/repronim_containers
+	url = git@github.com:ReproNim/containers.git
+	datalad-id = b02e63c2-62c1-11e9-82b0-52540040489c
+	datalad-url = git@github.com:ReproNim/containers.git
